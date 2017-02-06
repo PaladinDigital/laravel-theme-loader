@@ -1,0 +1,4 @@
+{
+  "name": "paladindigital/laravel-theme-loader",
+  "description": "Service provider to load laravel themes (laravel-community-theme)."
+}
