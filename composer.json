@@ -1,4 +1,9 @@
 {
   "name": "paladindigital/laravel-theme-loader",
-  "description": "Service provider to load laravel themes (laravel-community-theme)."
+  "description": "Service provider to load laravel themes (type: laravel-community-theme).",
+  "autoload": {
+    "psr-4": {
+      "PaladinDigital\\LaravelThemes\\": "src/"
+    }
+  }
 }
